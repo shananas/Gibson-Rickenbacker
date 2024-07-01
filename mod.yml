@@ -1,12 +1,12 @@
-name: akjshbdjksahd
+name: Gibson Rickenbacke
 originalAuthor: Shananas
 game: kh2
 assets:
-- name: remastered/msn/us/A_SCT_GIMMICK.bar/US_A_SCT_GIMMICK_bar1.dds
-  platform: pc
-  method: copy
-  source:
-  - name: remastered/Gibson/US_A_SCT_GIMMICK_bar1.dds
+#- name: remastered/msn/us/A_SCT_GIMMICK.bar/US_A_SCT_GIMMICK_bar1.dds
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: remastered/Gibson/US_A_SCT_GIMMICK_bar1.dds
 - name: remastered/msn/us/BB12_GIMMICK.bar/US_BB12_GIMMICK_bar0.png
   platform: pc
   method: copy
